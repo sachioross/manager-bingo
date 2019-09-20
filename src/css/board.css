@@ -1,0 +1,7 @@
+td.not-selected {
+    background-color: #bfc0c0;
+}
+
+td.selected {
+    background-color: #f3f8f2;
+}
